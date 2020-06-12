@@ -1,6 +1,6 @@
 {
   "name": "isomorphic-git",
-  "version": "0.0.0-development",
+  "version": "1.4.4-nexmod",
   "description": "A pure JavaScript reimplementation of git for node and browsers",
   "typings": "./index.d.ts",
   "main": "./index.cjs",
